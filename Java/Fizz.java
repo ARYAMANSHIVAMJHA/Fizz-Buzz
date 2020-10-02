@@ -1,5 +1,5 @@
 import java.util.*;
-class FizzBuzz
+class Fizz
 {
     public static void main(String args[])
     {
